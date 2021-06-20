@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+Solution URL: [Add solution URL here](https://your-solution-url.com)
 
 ## Author
 
-- Me - [Fabrice NYONATO](https://github.com/fabricenyonato)
+[Fabrice NYONATO](https://github.com/fabricenyonato)
